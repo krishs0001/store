@@ -1,0 +1,250 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+  border: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4f4f4;
+}
+
+.boxx{
+  font-family: sans-serif;
+ display: inline;
+  
+
+ 
+}
+.navbar{
+  height: 6vw;
+  
+  border-radius: 20px;
+
+    /* navbar ki height badti hai */
+  
+}
+#outer{
+  margin: 4px;
+   
+   
+  
+}
+#logocolor{
+  color: black;
+  font-size: 3.5vw;
+  
+  margin-left: 0.5vw;
+
+  font-weight: bold;
+  font-family: sans-serif;
+  
+}
+
+#box2{
+  margin-left: 1.5vw;
+  color: rgb(88, 88, 88);
+   
+}
+ul li{
+  display: inline;
+  margin-left: 1vw;
+  font-size: 3vh;
+}
+ul li a{
+  color: black;
+}
+ 
+#box3 input{
+  margin-left: 6vw;
+  border: 2px solid silver;
+
+  margin-top: 2px;
+  height: 5vh;
+  width: 29vw; 
+}
+
+#box4{
+  border: 2px solid silver;
+  border-radius: 9px;
+  padding: 5px;
+  margin-top: 2px;
+  width: 15vw;
+  height: 9vh;
+  margin-left: 1vw;
+}
+#box5{
+ margin-top: 0.6vw;
+  margin-left: 1vw;
+  background-color: rgb(228, 228, 228);
+  
+   
+  
+   width: 7vw;
+   height: 4.5vh;
+   border: 5px soild silver;
+   border-color: silver;
+   border-radius: 20px;
+   font-size: 1.5vw;
+   
+}
+.container{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 1px;
+  
+ 
+ 
+  
+  
+
+   
+  
+}
+
+.image{
+ 
+  margin-top: 6px;
+  
+  width: 100%;
+  height:250px;
+ 
+  
+
+}
+
+#smart_pid{
+  margin: 2px;
+   padding: 1px; 
+   border: 2px solid rgb(0, 0, 0);
+   color: rgb(50, 16, 59);
+   text-align: center;
+   font-weight: bold;
+   font-size: 20px;
+
+}
+
+#lapi_pid{
+  margin: 2px;
+  padding: 2px; 
+  border: 2px solid rgb(0, 0, 0);
+  color: rgb(50, 16, 59);
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+
+}
+
+#corner_id{
+  display: block;
+  
+  
+  
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 5px;
+ 
+}
+ 
+
+.brands{
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+   
+  background-color: rgb(238, 238, 238);
+  
+}
+#brands_id{
+  border: 2px solid rgb(18, 18, 18);
+  border-radius: 15px;
+  margin-left: 22px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+ 
+  height: 45vh;
+  width: 23%;
+   
+}
+#h2_brand{
+ 
+  
+  text-align: center;
+  font-size: 30px;
+  margin-top: 7px;
+  font-weight:500;
+}
+#vivo{
+  color: rgb(65, 65, 245);
+}
+#mi{
+ color:rgb(249, 162, 0);
+ 
+  padding: 2px;
+ 
+
+}
+#oppo{
+  color: rgb(53, 228, 53);
+  
+}
+#oneplus{
+   
+  padding: 2px;
+  color: rgb(224, 29, 29);
+}
+ #realme{
+   
+  padding: 2px;
+  color: rgb(231, 216, 8);
+ }
+ #apple{
+  margin-left: 6.5vw;
+  color:black;
+  padding: 2px;
+ }
+ #moto{
+  
+  color: rgb(84, 84, 84);
+  padding: 2px;
+
+ }
+
+#sam{
+  
+   
+   
+  color:rgb(83, 26, 254);
+  padding: 2px;
+
+
+}
+ 
+#img_brand{
+  width: 96%;
+  height: 60%;
+  margin: 5px;
+  border-radius: 20px;
+}
+#btn_brand{
+  width: 97%;
+  height: 5vh;
+  
+  margin: 5px;
+  margin-top: 6px;
+  border: 2px solid silver;
+  border-radius: 10px;
+  text-align: center;
+  color: black;
+  background-color: rgb(193, 193, 193);
+}
+ 
+ 
+ 
+
+ 
+ 

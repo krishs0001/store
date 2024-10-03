@@ -1,0 +1,222 @@
+@media screen and (max-width:987px){
+     
+      #logocolor{
+        font-size: 3vw; 
+      }
+
+      #box2{
+        margin-left: 1vw;  
+      }
+
+      #box3 input{
+        margin-left: 2vw;
+      }
+      
+      #box4{
+        
+        margin-left: 1vw;
+      }
+
+      #box5{ 
+        margin-left: 1vw;
+         font-size: 1vw;
+         
+      }
+
+      #brands_id{
+       
+        margin-left: 20px;
+      
+       
+        height: 44vh;
+        width: 22%;
+         
+      }
+
+}
+
+@media screen and (max-width:828px){
+     
+    #logocolor{
+      font-size: 3vw; 
+    }
+
+    #box2{
+     
+      display:none;
+    }
+
+    #box3 input{
+        width: 35vw;
+      margin-left: 18vw;
+    }
+    
+    #box4{
+      
+      margin-left: 17vw;
+    }
+
+    #box5{ 
+      margin-left: 1vw;
+       font-size: 1vw;
+       
+    }
+
+    #brands_id{
+     
+      margin-left: 17px;
+    
+     
+      height: 44vh;
+      width: 22%;
+       
+    }
+    #h2_brand{        
+        font-size: 20px;
+      }
+
+      #img_brand{
+        width: 92%;
+        height: 55%;
+        
+      }
+
+      #btn_brand{
+        width: 92%;
+        height: 5vh;
+        
+        margin: 5px;
+        
+      }
+
+}
+
+@media screen and (max-width:672px){
+     
+    #logocolor{
+      font-size: 3vw; 
+    }
+
+    #box2{
+     
+      display:none;
+    }
+
+    #box3 input{
+        width: 30vw;
+      margin-left: 14vw;
+    }
+    
+    #box4{
+      
+      margin-left: 15vw;
+    }
+
+    #box5{ 
+      margin-left: 1vw;
+       font-size: 1vw;
+       
+    }
+
+    #brands_id{
+     
+      margin-left: 20px;
+    
+     
+      height: 42vh;
+      width: 21%;
+       
+    }
+
+    #h2_brand{        
+        font-size: 20px;
+      }
+
+      #img_brand{
+        width: 92%;
+        height: 55%;
+        
+      }
+
+      #btn_brand{
+        width: 92%;
+        height: 5vh;
+        
+        margin: 5px;
+        
+      }
+
+}
+
+
+@media screen and (max-width:512px){
+     
+    #logocolor{
+      font-size: 3vw; 
+    }
+
+    #box2{
+     
+      display:none;
+    }
+
+    #box3 input{
+        width: 25vw;
+        height: 3vh;
+      margin-left: 6vw;
+    }
+    
+    #box4{
+        width: 4vw;
+        height: 2vh;
+      
+      margin-left: 22vw;
+    }
+    #box5{
+        margin-top: 0.2vw;
+         margin-left: 1vw;
+       
+         
+          
+         
+          width: 12vw;
+          height: 3.2vh;
+         
+          border-radius: 10px;
+          font-size: 2vw;
+          
+       }
+
+    #brands_id{
+     
+      margin-left: 10px;
+    
+     
+      height: 30vh;
+      width: 30%;
+       
+    }
+
+    #h2_brand{        
+        font-size: 20px;
+      }
+
+      #img_brand{
+        width: 92%;
+        height: 56%;
+        
+      }
+
+      #btn_brand{
+        width: 92%;
+        height: 5vh;
+        
+    
+        
+        margin: 5px;
+        margin-top: 2vh;
+        
+      }
+
+     
+}
